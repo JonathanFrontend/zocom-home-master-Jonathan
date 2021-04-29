@@ -5,6 +5,7 @@ Efter localhost skriv:
 /api/:EnhetensID/:ÄndraState
  och skicka med en PUT request.
 
+Vid :ÄndraState skriver man antingen "on" eller "off", förrutom på LOC1 där det är "lock" eller "unlock" som gäller.
 
 Exemplen på URL:
 
