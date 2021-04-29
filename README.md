@@ -2,7 +2,7 @@
 Building an api for controlling zocom-home-master devices.
 
 Efter localhost skriv: 
-/api/<<Enhetens ID>>/<<Vad man vill göra>>
+/api/:EnhetensID/:ÄndraState
 
 Exemplen på URL:
 
