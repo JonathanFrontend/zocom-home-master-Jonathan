@@ -10,4 +10,5 @@ http://localhost:3000/api/LOC1/unlock
   }
   ```
 http://localhost:3000/api/AC1/on?temp=20
+
 http://localhost:3000/api/LIG1/on?brig=0.6
