@@ -3,6 +3,8 @@ Building an api for controlling zocom-home-master devices.
 
 Efter localhost skriv: 
 /api/:EnhetensID/:ÄndraState
+ och skicka med en PUT request.
+
 
 Exemplen på URL:
 
