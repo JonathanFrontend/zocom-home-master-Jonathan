@@ -78,6 +78,6 @@ app.put('/api/:id/:state', (req, res) => {
     } else {
         status = 404;
     }
-    res.status(status).send(msg);
+    res.status(status).json({msg: msg});
     update();
 });
